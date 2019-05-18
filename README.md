@@ -1,8 +1,4 @@
 
-CrowdAi username: RobinLeurent
-Submission ID number: 23781
-
-
 0. External libraries to run the code
     
     for all the libraries, we are using the last version available online. You can use the command: conda install <name>.
@@ -138,3 +134,4 @@ Submission ID number: 23781
         Create the combined CNN and RNN model0
         With one embedding layer, followed by a convolutional layer, a LSTM layer of size 250 and finally a dense layer.
         RETURN: the compiled model.
+
